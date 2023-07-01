@@ -18,5 +18,25 @@
       "password": "1",
       "id": 3
     }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "contact": 11111,
+      "address": "jl jalan"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "contact": 122311,
+      "address": "jl jalan asd"
+    },
+    {
+      "id": 3,
+      "name": "Spageti",
+      "contact": 3431211,
+      "address": "jl jalan asda"
+    }
   ]
 }
