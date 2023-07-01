@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply m-0 p-0 w-full
+}
+.btn-primary{
+    @apply p-2  rounded-md bg-blue-500 text-white w-[320px] 
+}
+
+.form-input{
+    @apply w-[320px] h-[40px] pl-[20px] block mb-3 border-2 border-blue-300 rounded-md text-center
+}
+
+.nav {
+    @apply bg-gray-900 text-white   py-[14px]  
+}
+a{
+    @apply px-[14px] py-[14px]   text-[17px] text-center text-[20px] mr-[5px]
+}
+.nav a:hover{
+@apply bg-slate-200 text-gray-800 rounded-xl
+}
