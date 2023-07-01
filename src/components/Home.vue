@@ -15,7 +15,7 @@
                 <td class="px-6 py-4 whitespace-nowrap">{{ resto.contact }}</td>
                 <td class="px-6 py-4 whitespace-nowrap">{{ resto.address }}</td>
             </tr>
-        </tbody>
+        </tbody> 
     </table>
 </template>
 
